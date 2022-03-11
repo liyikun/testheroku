@@ -1,0 +1,19 @@
+{
+  "name": "testheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyikun/testheroku.git"
+  },
+  "author": "liyikun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyikun/testheroku/issues"
+  },
+  "homepage": "https://github.com/liyikun/testheroku#readme"
+}
